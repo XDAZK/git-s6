@@ -22,10 +22,7 @@ namespace TranCongMinh_1911060177.Controllers
 
         public ActionResult Contact()
         {
-            return View();
-            return View();
-            return View();
-            return View();
+            Message = "cho nay sua trên local"
         }
     }
 }
