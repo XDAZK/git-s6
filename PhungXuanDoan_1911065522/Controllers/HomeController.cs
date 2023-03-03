@@ -26,6 +26,7 @@ namespace TranCongMinh_1911060177.Controllers
             ViewBag.Message = "PhungXuanDoan_1911065522";
             ViewBag.Message = "Câu 17";
             ViewBag.Message = "local conflict"
+            ViewBag.Message = "commit trên host"
             return View();
         }
     }
