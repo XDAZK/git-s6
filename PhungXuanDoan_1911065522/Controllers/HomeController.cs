@@ -22,6 +22,7 @@ namespace TranCongMinh_1911060177.Controllers
 
         public ActionResult Contact()
         {
+            ViewBag.Message = "PhungXuanDoan_clone";
             ViewBag.Message = "PhungXuanDoan_1911065522";
 
             return View();
