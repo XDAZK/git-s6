@@ -23,10 +23,8 @@ namespace TranCongMinh_1911060177.Controllers
         public ActionResult Contact()
         {
             return View();
-            ViewBag.Message = "PhungXuanDoan_1911065522";
-            ViewBag.Message = "Câu 17";
-            ViewBag.Message = "local conflict"
-            ViewBag.Message = "commit trên host"
+            return View();
+            return View();
             return View();
         }
     }
