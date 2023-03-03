@@ -22,7 +22,7 @@ namespace TranCongMinh_1911060177.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "PhungXuanDoan_1911065522";
 
             return View();
         }
