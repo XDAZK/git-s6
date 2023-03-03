@@ -22,7 +22,7 @@ namespace TranCongMinh_1911060177.Controllers
 
         public ActionResult Contact()
         {
-            Message = "cho nay sua trên local"
-        }
+            Message = "cho nay sua ca 2"
+     }
     }
 }
